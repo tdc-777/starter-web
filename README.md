@@ -4,4 +4,6 @@
 
 ## Rozwinięcie
 
-### Zakończenie
+## Nagłówek drugiego stopnia
+
+## Zakończenie
