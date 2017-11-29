@@ -10,3 +10,5 @@ To jest zwykły teskst 2
 zwykły tekst 3
 
 ## Zakończenie
+adding
+adding2
