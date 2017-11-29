@@ -1,7 +1,7 @@
-# Starter Web Repo
+# To jest plik readme
 
-This repository is for showing how Git and GitHub work
+## Wstęp
 
-## Purpose
+## Rozwinięcie
 
-Sample website with plenty of files for demos
+### Zakończenie
